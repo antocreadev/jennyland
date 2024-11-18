@@ -1,0 +1,11 @@
+---
+import products from "../data/products.json";
+import Card from "./Card.astro";
+---
+
+<section id="products" class="py-8 px-4 bg-jennyland-color-green" id="products">
+  <h2 class="text-3xl font-bold mb-8 text-center">Mes créations</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    {products.map((product) => <Card product={product} />)}
+  </div>
+</section>

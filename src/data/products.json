@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_0173.jpg",
+    "price": 35,
+    "description": "Composition artisanale réalisée à la main avec des matériaux naturels pour célébrer les fêtes de fin d'année."
+  },
+  {
+    "id": 2,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5194.jpg",
+    "price": 35,
+    "description": "Une touche festive et élégante pour votre intérieur, fabriquée avec soin et créativité."
+  },
+  {
+    "id": 20,
+    "title": "Plateau de Noël avec bougies ",
+    "image": "/img/IMG_5246.jpg",
+    "price": 20,
+    "description": "Artisanat local pour une décoration de Noël unique."
+  },
+  {
+    "id": 3,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5197.jpg",
+    "price": 35,
+    "description": "Un arrangement unique pour égayer vos tables de fête."
+  },
+  {
+    "id": 21,
+    "title": "Idée cadeau de Noël, mug, chocolat & goodies",
+    "image": "/img/IMG_5248.jpg",
+    "price": 15,
+    "description": "Apportez une touche spéciale à votre décoration de Noël."
+  },
+  {
+    "id": 4,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5199.jpg",
+    "price": 35,
+    "description": "Artisanat local, parfait pour un cadeau de Noël personnalisé."
+  },
+  {
+    "id": 5,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5201.jpg",
+    "price": 35,
+    "description": "Des éléments naturels soigneusement sélectionnés pour une décoration authentique."
+  },
+  {
+    "id": 6,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5203.jpg",
+    "price": 35,
+    "description": "Idéal pour apporter une touche chaleureuse et festive à votre maison."
+  },
+  {
+    "id": 7,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5207.jpg",
+    "price": 35,
+    "description": "Une composition faite main qui reflète l'esprit de Noël."
+  },
+  {
+    "id": 8,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5210.jpg",
+    "price": 35,
+    "description": "Parfait pour une décoration intérieure ou un centre de table élégant."
+  },
+  {
+    "id": 9,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5213.jpg",
+    "price": 35,
+    "description": "Une touche de magie de Noël avec des détails raffinés."
+  },
+  {
+    "id": 19,
+    "title": "Plateau de Noël avec bougies ",
+    "image": "/img/IMG_5243.jpg",
+    "price": 20,
+    "description": "Évoque la joie et la magie de la saison festive."
+  },
+  {
+    "id": 10,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5215.jpg",
+    "price": 35,
+    "description": "Artisanat festif, idéal pour les amateurs de décoration naturelle."
+  },
+  {
+    "id": 11,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5218.jpg",
+    "price": 35,
+    "description": "Un cadeau unique qui apportera une ambiance festive à toute maison."
+  },
+  {
+    "id": 12,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5220.jpg",
+    "price": 35,
+    "description": "Un bouquet festif qui ajoute une touche spéciale à la saison."
+  },
+  {
+    "id": 13,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5223.jpg",
+    "price": 35,
+    "description": "Conçu pour illuminer votre intérieur durant les fêtes."
+  },
+  {
+    "id": 14,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5226.jpg",
+    "price": 35,
+    "description": "Un mélange de verdure, de fleurs séchées et d'ornements pour Noël."
+  },
+  {
+    "id": 15,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5230.jpg",
+    "price": 35,
+    "description": "Un centre de table parfait pour vos dîners de fête."
+  },
+  {
+    "id": 16,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5231.jpg",
+    "price": 35,
+    "description": "Une composition élégante pour un Noël magique."
+  },
+  {
+    "id": 17,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5236.jpg",
+    "price": 35,
+    "description": "Décoration festive artisanale, parfaite pour l'esprit de Noël."
+  },
+  {
+    "id": 18,
+    "title": "Création composition de Noël",
+    "image": "/img/IMG_5239.jpg",
+    "price": 35,
+    "description": "Ajoutez une ambiance chaleureuse avec ce design artisanal."
+  }
+]
